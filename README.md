@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey there, I’m ABDOUN Ahcene Rayan
 
-<!--
-**RayanAbdoun/RayanAbdoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m an AI engineering student at ENSIA Algiers (https://ensia.edu.dz), exploring the exciting world of artificial intelligence and its real-world applications.
 
-Here are some ideas to get you started:
+Right now, I’m diving deep into topics like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Natural Language Processing (I love working with language models)  
+- 👁️ Computer Vision (turning pixels into insights)  
+- 💻 Building useful tools with Python, C++, and sometimes JavaScript
+
+I’m always learning, building, and experimenting — whether it’s a class project, a side idea, or just trying to solve a problem I care about.
+
+---
+
+## 🛠️ What I use
+
+- **Languages**: Python, Java, C, C++, JavaScript/TypeScript, R
+- **ML/DL**: PyTorch, TensorFlow, scikit-learn  
+- **NLP & CV**: HuggingFace, OpenCV  
+- **Dev Tools**: Git, VSCode, Jupyter, Docker  
+- **Web Stuff**: React, FastAPI, Firebase
+
+---
+
+## 📫 Let’s connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahcene-rayan-abdoun-b18657263/)  
+- 📬 Email: ahcene.abdoun@ensia.edu.dz  
+
+---
+
+Thanks for stopping by!  
+*— Curious mind, code lover, always up for a challenge.*
